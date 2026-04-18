@@ -23,3 +23,10 @@
     "vite": "^7.2.4"
   }
 }
+{
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  }
+}
